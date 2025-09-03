@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-using namespacestd;
+using namespace std;
 int main(){
   cout<<"Hello world";
   cout<<"Hello world";
